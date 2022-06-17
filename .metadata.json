@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BuyseTest",
+    "oncran": true
+  },
+  {
+    "package": "lavaSearch2",
+    "oncran": true
+  },
+  {
+    "package": "LMMstar",
+    "oncran": true
+  }
+]
