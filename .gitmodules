@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BuyseTest"]
+	path = BuyseTest
+	url = https://github.com/bozenne/buysetest
+	shallow = true
+	registered = true
 [submodule "lavaSearch2"]
 	path = lavaSearch2
 	url = https://github.com/bozenne/lavasearch2
@@ -11,10 +16,5 @@
 [submodule "LMMstar"]
 	path = LMMstar
 	url = https://github.com/bozenne/lmmstar
-	shallow = true
-	registered = true
-[submodule "BuyseTest"]
-	path = BuyseTest
-	url = https://github.com/bozenne/buysetest
 	shallow = true
 	registered = true
